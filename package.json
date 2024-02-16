@@ -1,0 +1,28 @@
+{
+    "name": "dolchpink",
+    "displayName": "Dolch Pink",
+    "description": "Darkpink",
+    "version": "1.0.0",
+	"publisher": "Sloweed",
+    "engines": {
+        "vscode": "*",
+        "azdata": "*"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DolchPink",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DolchPink-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    }
+	
+}
