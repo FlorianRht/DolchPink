@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "DolchPink",
+                "label": "Dolch Pink",
                 "uiTheme": "vs-dark",
                 "path": "./themes/DolchPink-color-theme.json"
             }
@@ -22,7 +22,7 @@
     },
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/FlorianRht/DolchPink"
     }
 	
 }

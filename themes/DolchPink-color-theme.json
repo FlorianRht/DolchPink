@@ -1,21 +1,21 @@
 {
-	"name": "Pastelin",
+	"name": "Dolch Pink",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#2e3440",
-		"editor.foreground": "#d2dae7",
+		"editor.background": "#2f3133",
+		"editor.foreground": "#d5d6d1",
 		"activityBarBadge.background": "#44596b",
 		"sideBarTitle.foreground": "#ffffff",
 		"editor.selectionHighlightBackground": "#276966da",
 		"editor.lineHighlightBackground": "#9aa6bd2f",
 		"editor.selectionBackground": "#202525d8",
 		"minimap.selectionHighlight": "#d39b00",
-		"tab.activeBackground": "#2e3440",
+		"tab.activeBackground": "#2f3133",
 		"tab.activeForeground": "#ff9486",
 		"tab.border": "#5f6a81",
 		"tab.inactiveBackground": "#272a31",
 		"tab.inactiveForeground": "#778f8f",
-		"sideBar.background": "#2e3440" ,
+		"sideBar.background": "#2f3133" ,
 		"editorCursor.foreground": "#e0de37e8"
 
 
@@ -399,7 +399,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#28c6e2",
+				"foreground": "#dd7e97",
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 
 			],
 			"settings": {
-				"foreground": "#ec6391ef",
+				"foreground": "#2bc6e2",
 				"fontStyle": "italic"
 			}
 
